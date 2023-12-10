@@ -1,0 +1,19 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programmeroo7/namste-react.git"
+  },
+  "author": "Rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programmeroo7/namste-react/issues"
+  },
+  "homepage": "https://github.com/programmeroo7/namste-react#readme"
+}
